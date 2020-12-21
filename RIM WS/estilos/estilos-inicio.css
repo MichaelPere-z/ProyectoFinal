@@ -1,0 +1,324 @@
+/*
+ESTE SITIO HA SIDO POSIBLE GRACIAS A:
+JONATHAN SEPÚLVEDA ** 15-EISM-1-164
+MICHAEL PÉREZ ** 17-SIST-1-036
+RALPH SAINT ** 17-SIST-1-035
+*/
+
+
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+
+/*
+*{
+    border: black 1px solid;
+}
+*/
+
+.body{
+    background: whitesmoke;
+    font-family: "Segoe UI";
+    font-size: 25px;
+    margin: 0;
+}
+
+/*HEADER*/
+.header{
+    margin-top: 0;
+    background: mintcream;
+    margin-bottom: 20px;
+}
+
+.header *{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeza{
+    width: 50%;
+    margin: auto;
+}
+
+.seccion-logo{
+
+    width: 25%;
+    overflow: hidden;
+    text-align: center;
+    display: inline-block;
+}
+
+.seccion-titulo{
+    width: 75%;
+    float: right;
+    text-align: center;
+}
+
+.img-logo{
+    width: 150px;
+    margin: auto;
+}
+
+.titulo{
+    font-size: 50px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: teal;
+    display: inline-block;
+    width: 100%;
+}
+
+.eslogan{
+    font-size: 35px;
+    display: inline-block;
+    width: 100%;
+}
+
+
+
+
+
+.header-nav-ul{
+    background: navy;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+    padding: 5px;
+}
+
+.header-nav-item{
+    list-style: none;
+    display: inline-block;
+    margin: auto 20px;
+
+}
+
+.header-nav-item a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.header-nav-item a:hover{
+    background: white;
+    color: navy;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.inicio a{
+    color: orangered;
+    background-color: white;
+    border-radius: 5px;
+}
+
+
+/*MAIN*/
+
+.main{
+    overflow: hidden;
+}
+
+.div-articulos{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.articulos{
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.texto{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.img{
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    width: 80%;
+}
+
+.preguntas{
+    text-align: center;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    font-family: monospace;
+    margin-top: 20px;
+    border-style: dotted;
+}
+
+.preguntas .texto{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.img-preguntas{
+    width: 50%;
+    display: inline-block;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}
+
+.boton{
+    text-align: center;
+    margin-top: 30px;
+    overflow: hidden;
+}
+
+.boton div{
+    width: 50%;
+    padding: 70px 0px;
+    border-radius: 20px;
+    background-color: orangered;
+    margin: auto;
+}
+.boton a{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: bold;
+    background-color: navy;
+    color: whitesmoke;
+    margin: 0 10px;
+}
+.boton div a:hover{
+    background-color: orangered;
+}
+
+.boton div:hover{
+    background-color: peachpuff;
+    border-radius: 20px;
+}
+
+
+
+.razones{
+    text-align: center;
+}
+.razones img{
+    width: 100px;
+    margin-bottom: 100px;
+}
+.razones img:hover{
+    background-color: silver;
+    border-radius: 20px;
+}
+.razones .texto{
+    font-weight: bold;
+}
+
+/*Footer*/
+.footer{
+    background: rgb(36, 116, 148);
+    color: white;
+    text-align: center;
+}
+.footer *{
+    margin: 0;
+}
+
+.redes{
+    text-align: center;
+    padding: 10px;
+}
+
+.redes img{
+    width: 3%;
+    padding: 0;
+    border-radius: 30%;
+    margin: 20px;
+}
+.terminos{
+    background-color: black;
+    margin: 0;
+    padding: 30px;
+}
+.terminos a{
+    text-decoration: none;
+    margin: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+.contactos div{
+    width: 45%;
+    display: inline-block;
+    margin: 20px;
+}
+
+
+
+
+/*VARIABLES*/
+.color-titulo{
+    color: orangered;
+    border-bottom: 2px solid navy;
+    margin-right: 20px;
+    margin: 0;
+}
+
+
+.rojo{
+    color: red;
+}
+.verde{
+    color: lime;
+    background-color: navy;
+}
+.azul{
+    color: blue;
+}
+.naranja{
+    color: orangered;
+}
+
+
+.forma1{
+    font-family: monospace;
+}
+.forma2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.forma3{
+    font-family: 'Courier New', Courier, monospace;
+}
+.forma4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+.t10{
+    font-size: 10px;
+}
+.t15{
+    font-size: 15px;
+}
+.t20{
+    font-size: 20px;
+}
+.t40{
+    font-size: 40px;
+}
+
+.fondo-naranja:hover{
+    background-color: orangered;
+}
+
+.fondo-azul:hover{
+    background-color: blue;
+}
+.fondo-rojo:hover{
+    background-color: red;
+}
+.fondo-verde:hover{
+    background-color: lime;
+}

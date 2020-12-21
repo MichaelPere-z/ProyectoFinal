@@ -1,0 +1,293 @@
+/*
+ESTE SITIO HA SIDO POSIBLE GRACIAS A:
+JONATHAN SEPÚLVEDA ** 15-EISM-1-164
+MICHAEL PÉREZ ** 17-SIST-1-036
+RALPH SAINT ** 17-SIST-1-035
+*/
+
+
+
+
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+
+
+.body{
+    background: whitesmoke;
+    font-family: "Segoe UI";
+    font-size: 25px;
+    margin: 0;
+}
+
+/*HEADER*/
+.header{
+    margin-top: 0;
+    background: mintcream;
+    margin-bottom: 20px;
+}
+
+.header *{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeza{
+    width: 50%;
+    margin: auto;
+}
+
+.seccion-logo{
+
+    width: 25%;
+    overflow: hidden;
+    text-align: center;
+    display: inline-block;
+}
+
+.seccion-titulo{
+    width: 75%;
+    float: right;
+    text-align: center;
+}
+
+.img-logo{
+    width: 150px;
+    margin: auto;
+}
+
+.titulo{
+    font-size: 50px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: teal;
+    display: inline-block;
+    width: 100%;
+}
+
+.eslogan{
+    font-size: 35px;
+    display: inline-block;
+    width: 100%;
+}
+
+
+.header-nav-ul{
+    background: navy;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+    padding: 5px;
+}
+
+.header-nav-item{
+    list-style: none;
+    display: inline-block;
+    margin: auto 20px;
+
+}
+
+.header-nav-item a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.header-nav-item a:hover{
+    background: white;
+    color: navy;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.contactos a{
+    color: orangered;
+    background-color: white;
+    border-radius: 5px;
+}
+
+
+/*MAIN*/
+
+.main{
+    overflow: hidden;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div-articulos{
+    width: 70%;
+    float: left;
+}
+
+
+.articulos{
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.texto{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.img{
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    width: 80%;
+}
+
+ul{
+    list-style: none;
+}
+
+.red{
+    overflow: hidden;
+    width: 80%;
+    margin:auto;
+    margin-top: 10px;
+}
+
+.red img{
+    float: left;
+    width: 6%;
+}
+.red p{
+    margin: 0;
+    color: navy;
+}
+.red a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+/*ASIDE*/
+.aside{
+    width: 25%;
+    float: right;
+    padding: 10px;
+    background: white;
+    border-radius: 10px;
+}
+
+.aside *{
+    font-size: 20px;
+}
+
+.noticias{
+    margin-top: 10%;
+    display: block;
+}
+
+.noticias a{
+    width: 52%;
+    float: right;
+    font-size: 80%;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.img-noticias{
+    width: 45%;
+}
+
+
+.aside .vermas{
+    display: block;
+    text-align: center;
+    margin: 20px;
+}
+
+.vermas a{
+    color:whitesmoke;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+    background-color:rgb(146, 145, 145);
+    padding: 10px 20px;
+    font-weight: bold;
+}
+
+.vermas a:hover{
+    color: rgb(146, 145, 145);
+    background-color: whitesmoke;
+}
+
+/*Footer*/
+.footer{
+    background: rgb(36, 116, 148);
+    color: white;
+    text-align: center;
+}
+.footer *{
+    margin: 0;
+}
+
+.redes{
+    text-align: center;
+    padding: 10px;
+}
+
+.redes img{
+    width: 3%;
+    padding: 0;
+    border-radius: 30%;
+    margin: 20px;
+}
+.terminos{
+    background-color: black;
+    margin: 0;
+    padding: 30px;
+}
+.terminos a{
+    text-decoration: none;
+    margin: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+.contactos div{
+    width: 45%;
+    display: inline-block;
+    margin: 20px;
+}
+
+
+
+
+/*VARIABLES*/
+.color-titulo{
+    color: orangered;
+    border-bottom: 2px solid navy;
+    margin-right: 20px;
+    margin: 0;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.fondo-naranja:hover{
+    background-color: orangered;
+}
+
+.fondo-azul:hover{
+    background-color: blue;
+}
+.fondo-rojo:hover{
+    background-color: red;
+}
+.fondo-verde:hover{
+    background-color: lime;
+}

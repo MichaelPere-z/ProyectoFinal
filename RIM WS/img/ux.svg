@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 496 496" style="enable-background:new 0 0 496 496;" xml:space="preserve" width="512px" height="512px" class=""><g><g>
+	<g>
+		<g>
+			<path d="M352,416v16h128v24c0,13.232-10.768,24-24,24H40c-13.232,0-24-10.768-24-24v-24h128v-16H0v40c0,22.056,17.944,40,40,40     h416c22.056,0,40-17.944,40-40v-40H352z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<path d="M184,464h128c13.232,0,24-10.768,24-24v-24H160v24C160,453.232,170.768,464,184,464z M176,432h144v8c0,4.416-3.592,8-8,8     H184c-4.408,0-8-3.584-8-8V432z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<rect x="48" y="448" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<rect x="80" y="448" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<rect x="112" y="448" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<path d="M464,120v280h16V120c0-22.056-17.944-40-40-40h-24v16h24C453.232,96,464,106.768,464,120z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<path d="M32,120c0-13.232,10.768-24,24-24h24V80H56c-22.056,0-40,17.944-40,40v280h16V120z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<path d="M432,400h16V128c0-8.824-7.176-16-16-16h-16v16h16V400z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<path d="M48,128v272h16V128h16v-16H64C55.176,112,48,119.176,48,128z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<path d="M400,0H96v80h304V0z M384,64H112V16h272V64z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<rect x="128" y="32" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<rect x="160" y="32" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<rect x="192" y="32" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<polygon points="400,96 384,96 384,336 112,336 112,96 96,96 96,352 400,352    " data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<path d="M368,280.984c0-17.872-11.808-33.344-28.84-38.312c2.984-5.6,4.84-11.896,4.84-18.672v-16c0-22.056-17.944-40-40-40     c-22.056,0-40,17.944-40,40v16c0,6.784,1.856,13.072,4.848,18.672c-17.04,4.96-28.848,20.44-28.848,38.312V320h128V280.984z      M280,208c0-13.232,10.768-24,24-24s24,10.768,24,24v16c0,13.232-10.768,24-24,24s-24-10.768-24-24V208z M352,304h-96v-23.016     c0-11.032,7.48-20.608,18.176-23.28l6.248-1.56C287.048,261.024,295.16,264,304,264c8.84,0,16.952-2.976,23.576-7.856l6.24,1.552     C344.52,260.376,352,269.952,352,280.984V304z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<path d="M256,131.4c0-19.52-15.88-35.4-35.4-35.4h-1.256c-9.464,0-18.344,3.68-25.032,10.368l-2.312,2.32l-2.32-2.32     C183,99.68,174.112,96,164.656,96H163.4c-19.52,0-35.4,15.88-35.4,35.4c0,10.336,4.504,20.136,12.36,26.88L192,202.536     l51.648-44.264C251.496,151.528,256,141.736,256,131.4z M233.224,146.128L192,181.464l-41.224-35.328     C146.472,142.44,144,137.064,144,131.4c0-10.696,8.704-19.4,19.4-19.4h1.256c5.184,0,10.056,2.016,13.712,5.68L192,131.312     l13.632-13.632c3.656-3.664,8.528-5.68,13.712-5.68h1.256c10.696,0,19.4,8.704,19.4,19.4     C240,137.064,237.528,142.44,233.224,146.128z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<rect x="272" y="96" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<rect x="304" y="96" width="64" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<rect x="352" y="128" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<rect x="272" y="128" width="64" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<rect x="208" y="304" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<rect x="128" y="304" width="64" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<rect x="128" y="272" width="96" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<rect x="128" y="240" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+			<rect x="160" y="240" width="64" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#00B170"/>
+		</g>
+	</g>
+</g></g> </svg>
